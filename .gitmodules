@@ -28,3 +28,6 @@
 [submodule "piscine_feb_25"]
 	path = piscine_feb_25
 	url = git@github.com:TheLeBerton/piscine_feb_25.git
+[submodule "CPP"]
+	path = CPP
+	url = git@github.com:TheLeBerton/CPP.git
