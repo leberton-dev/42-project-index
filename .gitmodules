@@ -31,3 +31,6 @@
 [submodule "CPP"]
 	path = CPP
 	url = git@github.com:TheLeBerton/CPP.git
+[submodule "minishell"]
+	path = minishell
+	url = git@github.com:Elias-Jakob/minishell_inprogress.git
