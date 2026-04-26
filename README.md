@@ -17,6 +17,7 @@ All my projects from 42 School, organized as submodules.
 | [so_looooong](https://github.com/TheLeBerton/so_looooong) | |
 | [CPP](https://github.com/TheLeBerton/CPP) | C++ modules |
 | [minishell](https://github.com/Elias-Jakob/minishell_inprogress) | Unix shell implementation (w/ Elias-Jakob) |
+| [exams](https://github.com/TheLeBerton/exams) | 42 Exam exercises |
 | [piscine_feb_25](https://github.com/TheLeBerton/piscine_feb_25) | 42 Piscine - February 2025 |
 
 ## Usage
