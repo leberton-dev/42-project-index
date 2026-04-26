@@ -34,3 +34,6 @@
 [submodule "minishell"]
 	path = minishell
 	url = git@github.com:Elias-Jakob/minishell_inprogress.git
+[submodule "exams"]
+	path = exams
+	url = git@github.com:TheLeBerton/exams.git
