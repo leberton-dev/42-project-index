@@ -1,27 +1,32 @@
-# 42 Projects
+# École 42 — Projects Portfolio
 
-All my projects from 42 School, organized as submodules.
+A curated index of my projects from the École 42 curriculum.
 
-## Projects
+## Common Core
 
-| Project | Description |
-|---------|-------------|
-| [libft](https://github.com/TheLeBerton/libft) | Custom C standard library |
-| [get_next_line](https://github.com/TheLeBerton/get_next_line) | Read a file one line at a time |
-| [ft_printf](https://github.com/TheLeBerton/ft_printf) | Custom printf implementation |
-| [push_swap](https://github.com/TheLeBerton/push_swap) | Stack sorting algorithm |
-| [pipex](https://github.com/TheLeBerton/pipex) | Unix pipe reproduction |
-| [MiniTalk](https://github.com/TheLeBerton/MiniTalk) | Inter-process communication via signals |
-| [philosopher](https://github.com/TheLeBerton/philosopher) | Dining philosophers problem |
-| [fractol](https://github.com/TheLeBerton/fractol) | Fractal visualizer |
-| [so_looooong](https://github.com/TheLeBerton/so_looooong) | |
-| [CPP](https://github.com/TheLeBerton/CPP) | C++ modules |
-| [minishell](https://github.com/Elias-Jakob/minishell_inprogress) | Unix shell implementation (w/ Elias-Jakob) |
-| [exams](https://github.com/TheLeBerton/exams) | 42 Exam exercises |
-| [piscine_feb_25](https://github.com/TheLeBerton/piscine_feb_25) | 42 Piscine - February 2025 |
+| Project | Description | Language | Status |
+|---|---|---|---|
+| [libft](https://github.com/leberton-dev/42-libft) | My own C standard library | C | Done |
+| [get_next_line](https://github.com/leberton-dev/42-get-next-line) | Read a file line by line | C | Done |
+| [ft_printf](https://github.com/leberton-dev/42-ft-printf) | Reimplementation of printf | C | Done |
+| [push_swap](https://github.com/leberton-dev/42-push-swap) | Sorting algorithm with stacks | C | Done |
+| [minitalk](https://github.com/leberton-dev/42-minitalk) | UNIX signals client/server | C | Done |
+| [pipex](https://github.com/leberton-dev/42-pipex) | Handling pipes | C | Done |
+| [so_long](https://github.com/leberton-dev/42-so-long) | 2D game with MiniLibX | C | Done |
+| [fract-ol](https://github.com/leberton-dev/42-fract-ol) | Fractal renderer | C | Done |
+| [philosopher](https://github.com/leberton-dev/42-philosopher) | Threads & concurrency | C | Done |
+| [minishell](https://github.com/Elias-Jakob/minishell_inprogress) | A simple shell (team project) | C | Done |
+| cub3d | 3D raycasting game (team project) | C | Done |
+| [cpp-modules](https://github.com/leberton-dev/42-cpp-modules) | C++ curriculum | C++ | In progress |
 
-## Usage
+## Piscine
 
-```bash
-git clone --recurse-submodules git@github.com:TheLeBerton/42.git
-```
+| Project | Description | Status |
+|---|---|---|
+| [piscine 02/2025](https://github.com/leberton-dev/42-piscine-2025) | Selection bootcamp | Done |
+
+## Exams
+
+| Project | Description | Status |
+|---|---|---|
+| [42-exams](https://github.com/leberton-dev/42-exams) | Exam solutions | Ongoing |
